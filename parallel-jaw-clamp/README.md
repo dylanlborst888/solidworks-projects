@@ -3,7 +3,7 @@
 This project is a SolidWorks model of a parallel jaw clamp. The technical drawings were sourced from a tutorial, but the 3D modeling, assemblies, and mating were completed independently. The purpose of this project was to practice parametric modeling and gain experience assembling moving mechanical parts in SolidWorks.
 
 ## Preview
-![Clamp Model](../Screenshot%202025-08-04%20140443.png)
+![Clamp Model](/)
 
 ## What I Did
 - Modeled all clamp components in SolidWorks from technical drawings  

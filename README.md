@@ -14,4 +14,4 @@ This repository is a portfolio of SolidWorks designs and CAD models I've created
 - GitHub for version control and portfolio hosting
 
 ## About Me
-I am a Mechanical Engineering student (GPA 3.8) with interests in design, fabrication, and computational tools like Python. You can learn more about me on my [resume]().
+I am a Mechanical Engineering student (GPA 3.8) with interests in design, fabrication, and computational tools like Python. You can learn more about me on my [resume](/Resume.pdf).
